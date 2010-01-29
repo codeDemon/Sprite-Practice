@@ -1,0 +1,7 @@
+C:\Documents and Settings\Alexis (Kyo)\My Documents\Visual Studio 2008\Projects\SpritePractice\SpritePractice\bin\x86\Debug\SpritePractice.exe
+C:\Documents and Settings\Alexis (Kyo)\My Documents\Visual Studio 2008\Projects\SpritePractice\SpritePractice\bin\x86\Debug\SpritePractice.pdb
+C:\Documents and Settings\Alexis (Kyo)\My Documents\Visual Studio 2008\Projects\SpritePractice\SpritePractice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alexis (Kyo)\My Documents\Visual Studio 2008\Projects\SpritePractice\SpritePractice\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Alexis (Kyo)\My Documents\Visual Studio 2008\Projects\SpritePractice\SpritePractice\obj\x86\Debug\SpritePractice.exe
+C:\Documents and Settings\Alexis (Kyo)\My Documents\Visual Studio 2008\Projects\SpritePractice\SpritePractice\obj\x86\Debug\SpritePractice.pdb
+C:\Documents and Settings\Alexis (Kyo)\My Documents\Visual Studio 2008\Projects\SpritePractice\SpritePractice\bin\x86\Debug\Content\Textures\KirbySprites.xnb
